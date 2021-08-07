@@ -6,7 +6,7 @@
 4. [Running the app](#running-the-app)
 5. [E2E tests](#e2e-tests)
 6. [Swagger Documentation](#swagger-documentation)
-7. 
+
 ## Vapulus Backend Challenge
 
 
