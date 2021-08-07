@@ -1,11 +1,20 @@
-## Project Description
+#### Table of contents
+1. [Overview](#vapulus-backend-challenge)
+    - [Dependencies](#dependencies)
+2. [Repo structure](#repo-structure)
+3. [How to Install](#how-to-install)
+4. [Running the app](#running-the-app)
+5. [E2E tests](#e2e-tests)
+6. [Swagger Documentation](#swagger-documentation)
+7. 
+## Vapulus Backend Challenge
 
-Vapulus Backend Challenge
+
 
 chat application that enables the customers to sign up, login, and join a general chat room, send messages, show previous messages of the chat.
 
 
-## Project Dependencies
+## Dependencies
 
 | Dependencies  | Version         | 
 | :------------ |:---------------:| 
@@ -13,6 +22,20 @@ chat application that enables the customers to sign up, login, and join a genera
 | Typescript      | >= 4.3.5      |
 | MongoDB      | >= 4.2.1         | 
 | @nestjs/cli | >= 8.0.0          |
+
+
+## Repo structure:
+```
+- src/
+   - config/
+   - shared/
+   - types/
+   - utilities/
+   - auth/
+   - channel/
+   - message/
+   - database/
+```
 
 
 ## Installation
